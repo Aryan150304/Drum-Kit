@@ -1,2 +1,2 @@
 # Drum-Kit
-This design is inspired from the Dr. Angela Yu course on udemy
+Drum kit made using javascript that can play every not of drum
